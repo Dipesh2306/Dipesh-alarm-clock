@@ -1,0 +1,6 @@
+{
+  "name": "Mobile Alarm & Smart Clock",
+  "description": "Mobile-optimized smart alarm clock with custom tones, vibration, math wake-up challenges, snooze, timer, and stopwatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
